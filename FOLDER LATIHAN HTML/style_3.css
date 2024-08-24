@@ -1,0 +1,41 @@
+h1 {   background-color: white;
+       margin-inline-end: auto;
+       text-align: center;
+       color: red;
+       
+       
+
+}
+
+p { font-size: 20px;
+       color: yellow; }
+
+body {background-color: blue;}
+
+
+
+.container { 
+       width: 500PX;
+       border: 3px;
+       margin: 100PX auto;
+       margin-inline-end: auto ;
+       text-align: center;
+       display: flex;
+       flex-wrap: nowrap;
+
+}
+
+.box-1,
+.box-2,
+.box-3,
+.box-4 { 
+       width: 100px;
+       height: 100px;
+       background-color: green;
+       margin: 5px;
+       color: white;
+       font-size: 24px;
+}
+
+
+
